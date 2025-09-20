@@ -10,6 +10,11 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 3. Average Booking Value - What is the average revenue per booking?
 4. Total Trip Distance - What is the total distance covered by all trips?
 5. Average Trip Distance - How far are customers traveling on average per trip? 6. Average Trip Time - What is the average duration of trips?
+   
+## Data Set Link
+**LOCATION ID:** https://github.com/harshgholap05/Uber-Trip-Analysis-Dashboard/blob/main/Location%20ID.xlsx
+
+**UBER TRIP DETAILS:**
 
 ## Expected Outcomes:
 ✔ Identify trends in ride bookings and revenue generation.
