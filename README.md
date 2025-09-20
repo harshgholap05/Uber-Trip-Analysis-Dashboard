@@ -125,7 +125,6 @@ and Drop-off Location in the data model.
 
 
 # DAHBOARD 2: TIME ANALYSIS
-
 To understand trip patterns based on time, Uber needs to analyse ride demand and trends across different time intervals. This dashboard will help in optimizing operations, pricing, and driver availability.
 Global Dynamic Measure (Filters All Charts)
 A measure selector will be created for:
@@ -136,7 +135,10 @@ A measure selector will be created for:
 
 ✓ Total Trip Distance
 
-This dynamic measure will update all visuals based on user selection.
+This dynamic measure will update all visuals based on user selection
+
+
+<img width="1280" height="782" alt="image" src="https://github.com/user-attachments/assets/1980ad9a-ca64-4cce-a631-a4a25dee1869" />
 
 ## Visualizations:
 By Pickup Time (10-Minute Intervals) - Area Chart
@@ -161,8 +163,14 @@ By Pickup Time (10-Minute Intervals) - Area Chart
 
 • Highlights peak booking hours across different days.
 
+
+
 # DAHBOARD 3: DETAILS TAB
 To provide in-depth insights and allow users to explore granular data, a Grid Tab will be created. This tab will enable drill-through functionality, allowing users to access detailed records based on selections made in other dashboards.
+
+
+<img width="1282" height="781" alt="image" src="https://github.com/user-attachments/assets/2369c887-026b-4df4-a617-c3ba50324986" />
+
 
 ## Features of the Grid Tab:
 
