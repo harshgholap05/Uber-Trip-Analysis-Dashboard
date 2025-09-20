@@ -16,7 +16,7 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 
 <a href="https://github.com/harshgholap05/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Trip%20Details.xlsx">**UBER TRIP DETAILS**</a>
 
-## Expected Outcomes:
+## Expected Outcomes
 ✔ Identify trends in ride bookings and revenue generation.
 
 ✔ Analyse trip efficiency in terms of distance and duration.
@@ -24,6 +24,9 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 ✔ Compare booking values and trip patterns across different time periods.
 
 ✔ Provide insights to optimize pricing models and improve customer satisfaction.
+
+## Dashboard Interation
+<a href="https://github.com/harshgholap05/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Trip%20Dashboard.pbix">**UBER TRIP ANALYSIS DASHBOARD**</a>
 
 ## CHART's
 Create a Measure Selector using a Disconnected Table with the following values:
