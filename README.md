@@ -14,7 +14,7 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 ## Data Set Link
 **LOCATION ID:** https://github.com/harshgholap05/Uber-Trip-Analysis-Dashboard/blob/main/Location%20ID.xlsx
 
-**UBER TRIP DETAILS:**
+**UBER TRIP DETAILS:** https://github.com/harshgholap05/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Trip%20Details.xlsx
 
 ## Expected Outcomes:
 ✔ Identify trends in ride bookings and revenue generation.
