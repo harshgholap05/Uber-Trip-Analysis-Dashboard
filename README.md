@@ -96,7 +96,7 @@ and Drop-off Location in the data model.
 • Supports strategic vehicle distribution based on customer preferences and location demand.
 
 ## Overview Analysis Dashboard 
-
+<img width="1324" height="797" alt="image" src="https://github.com/user-attachments/assets/96caf37e-4550-4c2f-9aad-03b844988231" />
 
 # Other Implementation Enhancements for Uber Trip Analysis Dashboard
 
@@ -125,6 +125,7 @@ and Drop-off Location in the data model.
 
 
 # DAHBOARD 2: TIME ANALYSIS
+
 To understand trip patterns based on time, Uber needs to analyse ride demand and trends across different time intervals. This dashboard will help in optimizing operations, pricing, and driver availability.
 Global Dynamic Measure (Filters All Charts)
 A measure selector will be created for:
