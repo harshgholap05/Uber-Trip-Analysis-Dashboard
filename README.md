@@ -30,11 +30,17 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 
 ## CHART's
 Create a Measure Selector using a Disconnected Table with the following values:
+
 • Total Bookings
+
 • Total Booking Value
+
 • Total Trip Distance
+
 Then, use a measure to dynamically update the visualizations based on user selection.
+
 • By Payment Type (Card, Cash, Wallet, etc.)
+
 • By Trip Type (Day/Night)
 
 ## Additional Enhancements:
