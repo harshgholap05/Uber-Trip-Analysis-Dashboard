@@ -171,7 +171,7 @@ By Pickup Time (10-Minute Intervals) - Area Chart
 
 
 
-# 📌 DAHBOARD 3: DETAILS TAB
+# 📌 DASHBOARD 3: DETAILS TAB
 To provide in-depth insights and allow users to explore granular data, a Grid Tab will be created. This tab will enable drill-through functionality, allowing users to access detailed records based on selections made in other dashboards.
 
 
