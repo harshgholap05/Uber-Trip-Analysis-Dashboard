@@ -197,3 +197,5 @@ To provide in-depth insights and allow users to explore granular data, a Grid Ta
 
 • Allows users to reset filters and see all records easily.
 
+ ##
+ ## [Linkedin](https://www.linkedin.com/in/harshvardhan-gholap-821255326/)
