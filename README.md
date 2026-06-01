@@ -1,17 +1,34 @@
+
 <div align="center">
-  <h1>🚗 UBER TRIP ANALYSIS DASHBOARD 📊</h1>
-  <p><strong>(POWER BI • EXCEL • POWER QUERY)</strong></p>
-  
-  <p><i>Analyse Uber trip data to gain insights into booking trends, revenue 💰, trip efficiency 🚗, and customer behavior. Includes interactive dashboards, dynamic KPIs, time-based analysis, location insights 📍, vehicle type breakdown 🚘, and drill-through for granular data exploration.</i></p>
+
+# 🚗 Uber Trip Analysis Dashboard
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/dax/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
+[![Power Query](https://img.shields.io/badge/Power%20Query-2D7D9A?style=for-the-badge&logo=powerbi&logoColor=white)](https://learn.microsoft.com/en-us/power-query/)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)]()
+[![Live](https://img.shields.io/badge/🔴%20LIVE-Dashboard-red?style=for-the-badge)](https://uber-trip-analysis-dashboard-harshvardhan-gholap.vercel.app/)
+
+<br/>
+
+**Analyse Uber trip data to gain insights into booking trends, revenue 💰, trip efficiency 🚗, and customer behavior.**  
+*Includes interactive dashboards, dynamic KPIs, time-based analysis, location insights 📍, vehicle type breakdown 🚘, and drill-through for granular data exploration.*
+
+<br/>
+
+[![🔴 Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-Click%20Here-black?style=for-the-badge&logo=vercel)](https://uber-trip-analysis-dashboard-harshvardhan-gholap.vercel.app/)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-2ea44f?style=for-the-badge&logo=github)](https://github.com/harshgholap05/Uber-Trip-Analysis-Dashboard)
+
 </div>
 
-<br />
+---
 
 ## 📌 DASHBOARD 1: OVERVIEW ANALYSIS
 > Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
 
 <div align="center">
-  <img width="900" alt="Overview Analysis Dashboard" src="https://github.com/user-attachments/assets/96caf37e-4550-4c2f-9aad-03b844988231" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img width="900" alt="Overview Analysis Dashboard" src="https://github.com/user-attachments/assets/96caf37e-4550-4c2f-9aad-03b844988231"/>
 </div>
 
 ---
@@ -42,7 +59,7 @@
 
 ---
 
-## 👉 Dashboard Interation
+## 👉 Dashboard Interaction
 🔗 <a href="https://github.com/harshgholap05/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Trip%20Dashboard.pbix">**UBER TRIP ANALYSIS DASHBOARD (.pbix)**</a>
 
 ---
@@ -140,7 +157,7 @@ Understanding trip locations is crucial for optimizing ride distribution, demand
 # 📌 DASHBOARD 2: TIME ANALYSIS
 > To understand trip patterns based on time, Uber needs to analyse ride demand and trends across different time intervals. This dashboard will help in optimizing operations, pricing, and driver availability.
 
-**Global Dynamic Measure (Filters All Charts)**<br>
+**Global Dynamic Measure (Filters All Charts)**  
 A measure selector will be created for:
 - ✓ Total Bookings
 - ✓ Total Booking Value
@@ -149,12 +166,13 @@ A measure selector will be created for:
 *This dynamic measure will update all visuals based on user selection.*
 
 <div align="center">
-  <img width="900" alt="Time Analysis Dashboard" src="https://github.com/user-attachments/assets/1980ad9a-ca64-4cce-a631-a4a25dee1869" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img width="900" alt="Time Analysis Dashboard" src="https://github.com/user-attachments/assets/1980ad9a-ca64-4cce-a631-a4a25dee1869"/>
 </div>
 
 ---
 
 ## 💠 Visualizations:
+
 **By Pickup Time (10-Minute Intervals) - Area Chart**
 - Groups trip bookings into 10-minute intervals throughout the day.
 - Helps in identifying peak and off-peak demand periods.
@@ -175,7 +193,7 @@ A measure selector will be created for:
 > To provide in-depth insights and allow users to explore granular data, a Grid Tab will be created. This tab will enable drill-through functionality, allowing users to access detailed records based on selections made in other dashboards.
 
 <div align="center">
-  <img width="900" alt="Details Dashboard" src="https://github.com/user-attachments/assets/2369c887-026b-4df4-a617-c3ba50324986" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img width="900" alt="Details Dashboard" src="https://github.com/user-attachments/assets/2369c887-026b-4df4-a617-c3ba50324986"/>
 </div>
 
 ---
@@ -198,6 +216,10 @@ A measure selector will be created for:
 ---
 
 <div align="center">
-  <h3>Let's Connect!</h3>
-  <a href="https://www.linkedin.com/in/harshvardhan-gholap-821255326/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+### 🔗 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-gholap-821255326/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshgholap05)
+
 </div>
