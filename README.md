@@ -18,7 +18,6 @@
 <br/>
 
 [![🔴 Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-Click%20Here-black?style=for-the-badge&logo=vercel)](https://uber-trip-analysis-dashboard-harshvardhan-gholap.vercel.app/)
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-2ea44f?style=for-the-badge&logo=github)](https://github.com/harshgholap05/Uber-Trip-Analysis-Dashboard)
 
 </div>
 
